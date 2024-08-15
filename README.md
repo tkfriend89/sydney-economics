@@ -1,1 +1,1 @@
-Data visualizations for Sdyney, Australia economic indicators and trends
+Data visualizations for Sydney, Australia economic indicators and trends
